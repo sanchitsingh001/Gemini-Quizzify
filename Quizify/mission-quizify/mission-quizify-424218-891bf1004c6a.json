@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mission-quizify-424218",
+  "private_key_id": "891bf1004c6ad4314c6575e9f37386afa9981ef8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFfBp9ANd/AVx6\nI3wAaTqpFmoMyHURHHO1ssb3W+memh61+htw4LDhbHgjnWeoaz6H3Qu1wfnHGDJ0\nWXAmZjbaLfMxCvitoCUrsKJuQuAHU0mUOUgDbrP/kdym6qDXj5Z6DSVM6mVE7TMH\nwWqGl+DrUJLxhpPxPou9QxZydo3jaFAEqTmucVbzGsZew7JmXlSOEEuJnvvZJtKI\nxojWyjUAyTOVCkbwTxEXbNxtYcAGZkHhQZW3x004uGc/eY1dRA7nYMEVirf8Ywkk\n+VSO9VaOFiRf8Bdi/LVhXdgsomqP0Fkd1JlaI3/V7Rqs2CS8CSxXeqMMP/heT6bd\nxlSdBkDvAgMBAAECggEAUXU51dL5kH0mwIiPdvnwxNsmfkRXKWozfkCSWmiyqgWH\nYmeaVwqPW0RrH8GnBqzJ26+9S0kKNunPsfdMT8J8oK0wcUvFvJRgkK9oqJN0JgFg\nScAA6M2KeIIZYk5IbvHez1RJzPqoL/CpSmso/gB6uYWAPxjUQD+c00HvaeJl72UW\nsfXe9yC/wqu1pUsYN8i/2zTlHfEBeGoEb2TKtmKh26FIXLGxaX+/VkzNTeA3805b\nLOKrtBZMCnwbhPsODsycg4tKVZMdBS+RZlIMTg5fN8y399qN/lVk+MQGu8Lh4dl1\nNy2N6CWKoq7ZAYRZYn/AaNFla3eScqckLxHdCKBNJQKBgQD30O/QNyadUGNwo81+\nczMjGBWVeNWqqY453z029iN2HmGwir7tiVCBwJNcnRW6pOEINKEOlY1k2g9Cfx4N\nB0OhSWF7egfNiuJO55uYpcCSu5VDr8GTvRMoFSy8VCnWl+qQ8cY0csEE8nTHyW+g\nKUeLLbg0jdOSOU+Qmj7Ikw115QKBgQDMAaj4/WVMm3jJZxGYVEQKl2DAxLA6G6vQ\nBAaPh+T8RsWMxCYfD2Ara4MTBj9v2lPNFVWgzf1khRbCfS5B9AImFpJ1AuC5vGQz\n6shk9d2uISJV14eYlTBv9mg4TOs1DpbkCpAOxrpD2KfEYQothpTO+o2QCI8R3QgX\nOkzpevhuQwKBgQDfJZfcEN1HiKySMB2JQKiKcFR3LMCRlW5JdFiF1ivmX8MtmjIE\naMJCpCrNmXGIiJFNtz5TiJ0ydByLjzV7G9BtOkt6SU8faXERBgMY+CAowJrOwUN5\nCidmz3Jh/xNRdag1blBAyBhAoSZBBITsXl9a1wdo41Dg+ZRIrGveZnQXdQKBgBtj\n0ar0Yohhi1sHEo6wKZ5+aogXIE387xlzoOneZfkVC2r13uRmrRPHUIbaXOQInR24\n0pFPdsjrMX4VToOeXjd86lb5dvCZAZ8S06ryc7vwSOrbkCIFTcaKf72nXiD2f33I\niUTim5mGWif8m2A3ZH1RmHYRIBxW38I2mqLyVq5/AoGARdYsurbb5rB3H/CEGJsN\niQ/ZBhy85CRAYven0q2T6DI1N7ZCwiKYMyIIKUnlohTXLY1iCQvStIJXPgfl+4te\nk3yDC0TvAywMVxV/lSkt+mwavhZSB4nPqszvV/y7Iq0LLCWimxaTZUgXeaOqjxf1\nMiix+roafO8O6p8n8RbjTeU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "radicalai@mission-quizify-424218.iam.gserviceaccount.com",
+  "client_id": "110088106986643080418",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/radicalai%40mission-quizify-424218.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
